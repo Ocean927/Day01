@@ -1,2 +1,2 @@
 # Day01
-learning GitHub and Git fallowing atguigu.com
+learning GitHub and Git following atguigu.com
